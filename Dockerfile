@@ -13,7 +13,7 @@ RUN set -ex; \
         gedit \
         expect \
         sudo \
-	firedm \
+	xdm \
         vim \
 	vlc \
         bash \
