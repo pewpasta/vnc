@@ -13,7 +13,7 @@ RUN set -ex; \
         gedit \
         expect \
         sudo \
-	uget \
+	persepolis \
         vim \
 	vlc \
         bash \
